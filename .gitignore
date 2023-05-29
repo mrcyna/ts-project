@@ -1,0 +1,6 @@
+.env
+.code
+.idea
+coverage
+node_modules
+build
